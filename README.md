@@ -1,13 +1,10 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+deployment address = 0xB77d9c9f676A41E6DdDb5C8A17664e1bdA895f4D
 
-Try running some of the following tasks:
+Txn Hash = 0xca49f392031ddfac3cd67bfc059add640ce1fb49ce0e5d5ff5b6de94cf482529
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+OpenSea Address = https://testnets.opensea.io/assets/rinkeby/0x93e709bec0a1c8b0dbc777f5ef2b35fdb5d255a9/1
+
+
 ```
